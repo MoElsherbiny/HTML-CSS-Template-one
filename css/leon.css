@@ -154,7 +154,7 @@ html {
   background-image: url(../images/pexels-roberto-shumski-1903702.jpg);
   background-size: cover;
   position: relative;
-  height: calc(100vh - 64px);
+  height: calc(70vh);
 }
 .landing .intro-text {
   position: absolute;
@@ -169,12 +169,12 @@ html {
   margin: 0;
   font-weight: bold;
   font-size: 50px;
-  color: black;
+  color: var(--main-color);
 }
 .landing .intro-text p {
   font-size: 19px;
   line-height: 1.8;
-  color: white;
+  color: black;
 }
 /* End Landing Section */
 /*  Start features   */
